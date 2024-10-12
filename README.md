@@ -2,6 +2,7 @@
 This project showcases an Arduino-based robotic car, demonstrating the fascinating intersection of robotics, electronics, and mobile technology.
 As the culmination of my Electronic Engineering studies, this project reflects my longstanding passion for robotics and automated systems.
 The project was awarded a remarkable score of 99, highlighting its exceptional quality and execution.
+[Final Project Report (PDF)](https://edenkantor.github.io/Arduino-Robot-Car-Project-/Final_project.pdf)
 
 ## 🌟 Key Features:
 - Bluetooth Control: Navigate the car using a custom mobile app
