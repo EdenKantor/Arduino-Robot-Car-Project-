@@ -1,7 +1,7 @@
 # 🚗💨 Bluetooth-Controlled Arduino Robot Car
 This project showcases an Arduino-based robotic car, demonstrating the fascinating intersection of robotics, electronics, and mobile technology.
-As the culmination of my Electronic Engineering studies, this project reflects my longstanding passion for robotics and automated systems.
-The project was awarded a remarkable score of 99, highlighting its exceptional quality and execution.
+As my final project during my Electronics Practical Engineering studies, it reflects my longstanding passion for robotics and automated systems. 
+The project received a score of 99, underscoring my commitment to integrating hardware and software technologies.
 [Final Project Report (PDF)](https://edenkantor.github.io/Arduino-Robot-Car-Project-/Final_project.pdf)
 
 ## 🌟 Key Features:
